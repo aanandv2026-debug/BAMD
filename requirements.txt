@@ -4,11 +4,6 @@ pandas
 scikit-learn
 tensorflow
 datetime
-warnings
 xgboost
 numpy
-pandas
 seaborn
-tensorflow
-scipy
-scikit-learn
