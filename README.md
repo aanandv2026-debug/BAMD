@@ -5,6 +5,7 @@ MBA/0242/61	ABHINAV SINGH UPPERWAL
 MBA/0258/61	BUDARAPU SHASHANK
 MBA/0406/61	ABHISHEK SOURABH
 
+## Streamlit link - https://qgquvhsjzdcypsznscussw.streamlit.app
 
 ### Run lending_club.ipynb
 
@@ -67,3 +68,4 @@ model_columns.joblib: A list of the feature columns used for training.
 ann_model.h5: The trained Artificial Neural Network model.
 random_forest_model.joblib: The tuned Random Forest model.
 xgboost_model.joblib: The tuned XGBoost model.
+
